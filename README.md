@@ -92,7 +92,7 @@ sudo apt install -y libatlas-base-dev libjpeg-dev libtiff-dev libopenjp2-7-dev
 
 Clone the repository:
 
-git clone https://github.com/yourusername/road-detection-yolo.git  
+git clone https://github.com/asronal/Obstacle-and-Pothole-detection-model.git  
 cd road-detection-yolo  
 
 Create virtual environment:
