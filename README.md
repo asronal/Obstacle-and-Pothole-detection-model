@@ -47,8 +47,8 @@ Detected objects are tracked and saved with spatial filtering to avoid duplicate
 ---
 
 ## 📂 Project Structure
-.
-├── beta.py  
+```
+├── best.py  
 ├── best.onnx  
 ├── detections/  
 │   ├── obstacle/  
@@ -56,7 +56,8 @@ Detected objects are tracked and saved with spatial filtering to avoid duplicate
 ├── test/  
 ├── requirements.txt  
 └── README.md  
-
+```
+test/ and /detections is generated for logging video during runtime
 ---
 
 ## 📦 Requirements
