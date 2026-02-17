@@ -1,7 +1,7 @@
 # 🚧 Real-Time Road Obstacle & Pothole Detection (YOLOv8 ONNX)
 
 ## 📌 Overview
-This project is a real-time computer vision system designed to detect road obstacles and potholes using a lightweight YOLOv8 ONNX model. It is optimized for edge devices like Raspberry Pi, enabling efficient on-device inference for smart transportation, autonomous navigation, and road safety applications.
+This project is a real-time computer vision system designed to detect road obstacles and potholes using a lightweight YOLOv8n ONNX model. It is optimized for edge devices like Raspberry Pi, enabling efficient on-device inference for smart transportation, autonomous navigation, and road safety applications.
 
 The system supports:
 - Raspberry Pi Camera  
